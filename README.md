@@ -1,4 +1,4 @@
-<img width="533" height="587" alt="image" src="https://github.com/user-attachments/assets/f3a9be21-0902-4a29-8e66-540277095469" /># Home page:
+# Home page:
 <img width="858" height="670" alt="image" src="https://github.com/user-attachments/assets/7485fd1f-dafe-4d81-bb87-0a606362ccc4" />
 
 # Create Message:
